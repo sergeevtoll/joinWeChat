@@ -185,6 +185,7 @@ a{
 }
 .bg-main{
   position: absolute;
+  pointer-events: none;
   left: 0;
   transform: translateY(-300px);
 }
