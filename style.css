@@ -38,7 +38,7 @@ a{
   position:fixed;
   background-color: white;
   height: 105px;
-  z-index: 10;
+  z-index: 14;
 }
 .burger{
   position: absolute;
